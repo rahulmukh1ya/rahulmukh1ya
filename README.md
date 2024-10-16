@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Flutter and Dart**
 
-- 📫 How to reach me **rahulmukh1ya649@gmail.com | samueljackson649@gmail.com**
+- 📫 How to reach me **rahulmukh1ya649@gmail.com**
 
 - 📄 Know about my experiences [rahulmukhiya.com.np/cv/my-cv.pdf](rahulmukhiya.com.np/cv/my-cv.pdf)
 
