@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rahulmukh1ya649@gmail.com**
 
-- 📄 Know about my experiences [rahulmukhiya.com.np/cv/my-cv.pdfx](rahulmukhiya.com.np/cv/my-cv.pdf)
+- 📄 Know about my experiences [My CV](https://rahulmukhiya.com.np/cv/my-cv.pdf)
 
 - ⚡ Fun fact **The phenomenon of repeating a word until it starts to sound strange or lose its meaning is called semantic satiation.**
 
