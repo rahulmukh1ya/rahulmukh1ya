@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [rahulmukhiya.com.np](rahulmukhiya.com.np)
+- 👨‍💻 All of my projects are available at [rahulmukhiya.com.np](https://rahulmukhiya.com.np)
 
 - 💬 Ask me about **Flutter and Dart**
 
