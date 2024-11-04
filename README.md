@@ -2,38 +2,7 @@
   <img src="https://i.imgur.com/sbEFeLq.gif" alt="Profile Background" width="100%" />
 </div>
 <h1 align="center">Hi 👋, I'm Rahul Mukhiya</h1>
-
-
-<style>
-@keyframes reveal {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-
-.line {
-  opacity: 0;
-  animation: reveal 1s ease forwards;
-}
-
-.line-1 { animation-delay: 0s; }
-.line-2 { animation-delay: 2s; }
-.line-3 { animation-delay: 4s; }
-.line-4 { animation-delay: 6s; }
-.line-5 { animation-delay: 8s; }
-.line-6 { animation-delay: 10s; }
-.line-7 { animation-delay: 12s; }
-.line-8 { animation-delay: 14s; }
-</style>
-
-<p class="line line-1">I am the coder of my app.</p>
-<p class="line line-2">Flutter is my framework, and Dart is my code.</p>
-<p class="line line-3">I have crafted countless screens,</p>
-<p class="line line-4">Unknown to bugs, nor known to crashes.</p>
-<p class="line line-5">Have withstood countless refactors to bring my vision to life.</p>
-<p class="line line-6">Yet, this code will never be abandoned.</p>
-<p class="line line-7">So as I deploy,</p>
-<p class="line line-8">Unlimited Apps Works.</p>
-
+<h3 align="center">I am the coder of my app. Flutter is my framework, and Dart is my code. I have crafted countless screens, Unknown to bugs, nor known to crashes. Have withstood countless refactors to bring my vision to life. Yet, this code will never be abandoned. So as I deploy, Unlimited Apps Works.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulmukh1ya&label=Profile%20views&color=0e75b6&style=flat" alt="rahulmukh1ya" /> </p>
 
