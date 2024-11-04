@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/embed/psqqazmAKeeMU)](https://rahulmukhiya.com.np)
+[![MasterHead](https://giphy.com/embed/psqqazmAKeeMU.gif)](https://rahulmukhiya.com.np)
 <h1 align="center">Hi 👋, I'm Rahul Mukhiya</h1>
 <h3 align="center">I am the coder of my app. Flutter is my framework, and Dart is my code. I have crafted countless screens, Unknown to bugs, nor known to crashes. Have withstood countless refactors to bring my vision to life. Yet, this code will never be abandoned. So as I deploy, Unlimited Apps Works.</h3>
 
