@@ -63,33 +63,6 @@
 
 ---
 
-### Experience
-
-**Flutter Developer** · [Selora Tech](https://seloratech.io) · Jan 2026 – Aug 2026
-> Encryption and decryption across the app — key generation, secure storage, multi-device key handling. Notifications end to end across 30+ types. Auth, chat, calls. Native Android for call handling and screen-recording detection.
-
-**Flutter / Desktop Developer** · [Velocis Core](https://www.velociscore.com/team) · Mar 2024 – Dec 2025
-> Healthcare, matrimony and order-management apps for Android, iOS, Windows and macOS. Shipped two apps to the Play Store. Offline-first with Hive. Also ran Flutter training for BCA students.
-
-**Flutter Intern** · [Intuji](https://intuji.com) · Jun 2023 – Sep 2023
-> Auth flows with Firebase, BLoC for Firestore CRUD, reusable form components.
-
----
-
-### Selected work
-
-| Project | What it is | Status |
-|---|---|---|
-| **Flirt Chat** | Social & messaging, end-to-end encrypted | Beta |
-| **Happy Child Clinic** | Patient app · admin dashboard · prescription & lab | On Play Store |
-| **Arogya 365** | Health management | On Play Store |
-| **Law Me** | Matrimony & dating | Shipped |
-| **Magic Washer** | Laundry management, Flutter desktop | Desktop |
-
-Full case studies with screenshots → **[rahulmukhiya.com.np](https://rahulmukhiya.com.np)**
-
----
-
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=rahulmukh1ya&show_icons=true&hide_border=true&bg_color=00000000&title_color=10b981&icon_color=10b981&hide=issues" alt="" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulmukh1ya&layout=compact&hide_border=true&bg_color=00000000&title_color=10b981&langs_count=6" alt="" />
