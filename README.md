@@ -5,10 +5,6 @@
 
   **Flutter Developer** · Biratnagar, Nepal
 
-  Two and a half years shipping production apps across Android, iOS, Windows and macOS.<br/>
-  Lately: applied cryptography — multi-device end-to-end encryption, key rotation,<br/>
-  and native Android security detection for a messaging platform.
-
   <sub>I have crafted countless screens. Unknown to bugs, nor known to crashes.<br/>
   So as I deploy — Unlimited Apps Works.</sub>
 
@@ -18,15 +14,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahulmukh1ya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulmukh1ya)
   [![Email](https://img.shields.io/badge/Email-rahulmukh1ya649@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rahulmukh1ya649@gmail.com)
 </div>
-
----
-
-### Currently
-
-- 🔐 Building **end-to-end encryption** — X25519 key exchange, Ed25519 signing, ChaCha20-Poly1305
-- 📱 Shipping Flutter to **four platforms** from one codebase
-- 🧩 Deep in **Clean Architecture** and **BLoC** at production scale
-- 💬 Ask me about Flutter, Dart, or making encryption actually work on a phone
 
 ---
 
